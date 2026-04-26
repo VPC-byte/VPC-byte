@@ -24,6 +24,19 @@ I focus on systems where agents do real work: run tools, call models, manage clo
 
 I also track fast-moving Chinese open-source AI projects and package English starter guides:
 
+**DeepSeek V4 hot track**
+
+- [deepseek-v4-claude-code-bridge](https://github.com/VPC-byte/deepseek-v4-claude-code-bridge) — Claude Code-style workflow bridge for DeepSeek V4.
+- [deepseek-v4-opencode-starter](https://github.com/VPC-byte/deepseek-v4-opencode-starter) — OpenCode starter for DeepSeek V4 Pro agentic coding.
+- [deepseek-v4-openai-sdk-starter](https://github.com/VPC-byte/deepseek-v4-openai-sdk-starter) — OpenAI SDK migration starter for DeepSeek V4.
+- [deepseek-v4-anthropic-sdk-starter](https://github.com/VPC-byte/deepseek-v4-anthropic-sdk-starter) — Anthropic-compatible API starter for DeepSeek V4.
+- [deepseek-v4-long-context-rag](https://github.com/VPC-byte/deepseek-v4-long-context-rag) — 1M-context RAG evaluation guide.
+- [deepseek-v4-agent-bench-kit](https://github.com/VPC-byte/deepseek-v4-agent-bench-kit) — Agentic coding and tool-use benchmark kit.
+- [deepseek-v4-cost-calculator](https://github.com/VPC-byte/deepseek-v4-cost-calculator) — Pro vs Flash cost planning starter.
+- [deepseek-v4-tool-calling-lab](https://github.com/VPC-byte/deepseek-v4-tool-calling-lab) — Tool calling and JSON action reliability lab.
+- [deepseek-v4-fim-coding-starter](https://github.com/VPC-byte/deepseek-v4-fim-coding-starter) — Fill-in-the-middle coding workflow starter.
+- [deepseek-v4-prompt-evals](https://github.com/VPC-byte/deepseek-v4-prompt-evals) — Prompt evaluation starter for V4 Pro and Flash.
+
 **Agent frameworks and runtime**
 
 - [qwenpaw-english-starter](https://github.com/VPC-byte/qwenpaw-english-starter) — QwenPaw English field guide.

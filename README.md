@@ -20,6 +20,14 @@ I focus on systems where agents do real work: run tools, call models, manage clo
 - **Automation tools**: browser automation, publishing automation, job-search automation, and creator workflow tooling.
 - **Security-adjacent agent systems**: long-running fuzzing/security-test harnesses and vulnerability intelligence workflows.
 
+## English Bridge Repos
+
+I also track fast-moving Chinese open-source AI projects and package English starter guides:
+
+- [qwenpaw-english-starter](https://github.com/VPC-byte/qwenpaw-english-starter) — QwenPaw English field guide.
+- [qwen-agent-cookbook-en](https://github.com/VPC-byte/qwen-agent-cookbook-en) — Qwen-Agent cookbook for MCP, RAG, function calling, and code interpreter workflows.
+- [minicpm-o-live-starter](https://github.com/VPC-byte/minicpm-o-live-starter) — MiniCPM-o live multimodal agent starter.
+
 ## Current Direction
 
 - Packaging public proof repos around agent infrastructure and creator automation.

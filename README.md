@@ -9,6 +9,7 @@ I focus on systems where agents do real work: run tools, call models, manage clo
 | Project | What It Proves | Stack |
 |---|---|---|
 | [ai-shorts-matrix-pipeline](https://github.com/VPC-byte/ai-shorts-matrix-pipeline) | AI Shorts matrix pipeline: script, storyboard, AI video, FFmpeg polish, batch upload, multi-channel scheduling, and YPP-oriented cost tracking | Python, Typer, FFmpeg, Langfuse, YouTube Data API |
+| [agent-hub-python](https://github.com/VPC-byte/agent-hub-python) | Production-style agent framework: lifecycle agents, dynamic tools, hybrid memory, CLI, and multi-agent orchestration | Python, Typer, pytest, ChromaDB |
 | [jobclaw](https://github.com/VPC-byte/jobclaw) | AI-powered job search agent: scrape jobs, match against a profile, draft applications, notify, and track outcomes | AI agents, Playwright, LLMs, automation |
 | [titan-builder-mcp](https://github.com/VPC-byte/titan-builder-mcp) | MCP server that lets AI agents interact with Ethereum builder / MEV infrastructure through tool calls | Rust, MCP, Ethereum |
 

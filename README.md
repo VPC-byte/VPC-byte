@@ -24,32 +24,6 @@ I focus on systems where agents do real work: run tools, call models, manage clo
 
 I also track fast-moving Chinese open-source AI projects and package English starter guides:
 
-**DeepSeek V4 hot track**
-
-- [deepseek-awesome-integration-v4-companion](https://github.com/VPC-byte/deepseek-awesome-integration-v4-companion) — Companion checklist for the official DeepSeek integration index.
-- [deepseek-v3-to-v4-migration-notes](https://github.com/VPC-byte/deepseek-v3-to-v4-migration-notes) — Migration notes from DeepSeek V3 to V4.
-- [vllm-deepseek-v4-serving-notes](https://github.com/VPC-byte/vllm-deepseek-v4-serving-notes) — vLLM serving notes for DeepSeek V4.
-- [llamafactory-deepseek-v4-finetune-notes](https://github.com/VPC-byte/llamafactory-deepseek-v4-finetune-notes) — LLaMA-Factory fine-tuning notes for DeepSeek V4.
-- [new-api-deepseek-v4-routing-guide](https://github.com/VPC-byte/new-api-deepseek-v4-routing-guide) — new-api routing guide for DeepSeek V4 Pro/Flash.
-- [deepseek-v4-claude-code-bridge](https://github.com/VPC-byte/deepseek-v4-claude-code-bridge) — Claude Code-style workflow bridge for DeepSeek V4.
-- [deepseek-v4-opencode-starter](https://github.com/VPC-byte/deepseek-v4-opencode-starter) — OpenCode starter for DeepSeek V4 Pro agentic coding.
-- [deepseek-v4-openai-sdk-starter](https://github.com/VPC-byte/deepseek-v4-openai-sdk-starter) — OpenAI SDK migration starter for DeepSeek V4.
-- [deepseek-v4-anthropic-sdk-starter](https://github.com/VPC-byte/deepseek-v4-anthropic-sdk-starter) — Anthropic-compatible API starter for DeepSeek V4.
-- [deepseek-v4-long-context-rag](https://github.com/VPC-byte/deepseek-v4-long-context-rag) — 1M-context RAG evaluation guide.
-- [deepseek-v4-agent-bench-kit](https://github.com/VPC-byte/deepseek-v4-agent-bench-kit) — Agentic coding and tool-use benchmark kit.
-- [deepseek-v4-cost-calculator](https://github.com/VPC-byte/deepseek-v4-cost-calculator) — Pro vs Flash cost planning starter.
-- [deepseek-v4-tool-calling-lab](https://github.com/VPC-byte/deepseek-v4-tool-calling-lab) — Tool calling and JSON action reliability lab.
-- [deepseek-v4-fim-coding-starter](https://github.com/VPC-byte/deepseek-v4-fim-coding-starter) — Fill-in-the-middle coding workflow starter.
-- [deepseek-v4-prompt-evals](https://github.com/VPC-byte/deepseek-v4-prompt-evals) — Prompt evaluation starter for V4 Pro and Flash.
-
-**GPT Image 2 hot track**
-
-- [youmind-gpt-image-2-companion](https://github.com/VPC-byte/youmind-gpt-image-2-companion) — Companion workflow for YouMind GPT Image 2 prompt galleries.
-- [gpt-image-2-prompts-api-companion](https://github.com/VPC-byte/gpt-image-2-prompts-api-companion) — API companion for GPT Image 2 prompt collections.
-- [go-openai-gpt-image-2-notes](https://github.com/VPC-byte/go-openai-gpt-image-2-notes) — go-openai notes for GPT Image 2 backend workflows.
-- [gpt-image-2-skill-companion](https://github.com/VPC-byte/gpt-image-2-skill-companion) — Agent skill companion for GPT Image 2 generation/editing.
-- [gpt-image-playground-2-companion](https://github.com/VPC-byte/gpt-image-playground-2-companion) — Playground companion for reproducible GPT Image 2 experiments.
-
 **Agent frameworks and runtime**
 
 - [qwenpaw-english-starter](https://github.com/VPC-byte/qwenpaw-english-starter) — QwenPaw English field guide.
